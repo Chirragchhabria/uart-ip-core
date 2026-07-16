@@ -1,0 +1,14 @@
+# Simulation executables
+sim/
+
+# Waveforms
+waveforms/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Backup files
+*.swp
