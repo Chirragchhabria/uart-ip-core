@@ -28,19 +28,19 @@ The design currently includes:
 ## Architecture
 
 <p align="center">
-  <img src="images/architecture.png" width="900">
+  <img src="images/architecture.png" width="1000">
 </p>
 
 ## UART Transmitter Waveform
 
 <p align="center">
-  <img src="images/uart_tx_waveform.jpeg" width="900">
+  <img src="images/uart_tx_waveform.jpeg" width="1000">
 </p>
 
-## UART Reciever Waveform
+## UART Receiver Waveform
 
 <p align="center">
-  <img src="images/uart_rx_waveform.jpeg" width="900">
+  <img src="images/uart_rx_waveform.jpeg" width="1000">
 </p>
 
 ## Project Structure
