@@ -34,13 +34,13 @@ The design currently includes:
 ## UART Transmitter Waveform
 
 <p align="center">
-  <img src="images/uart_tx_waveform.jpeg" width="1000">
+  <img src="images/uart_tx_waveform.png" width="1000">
 </p>
 
 ## UART Receiver Waveform
 
 <p align="center">
-  <img src="images/uart_rx_waveform.jpeg" width="1000">
+  <img src="images/uart_rx_waveform.png" width="1000">
 </p>
 
 ## Project Structure
