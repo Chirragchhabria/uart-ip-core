@@ -26,8 +26,7 @@ The design currently includes:
 
 ---
 ## Architecture
-   ![Architecture](images/architecture.png)
-   
+
 <p align="center">
   <img src="images/architecture.png" width="900">
 </p>
