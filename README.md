@@ -25,6 +25,23 @@ The design currently includes:
 | Stop Bits | 1 |
 
 ---
+## Architecture
+
+<p align="center">
+  <img src="images/architecture.png" width="900">
+</p>
+
+## UART Transmitter Waveform
+
+<p align="center">
+  <img src="images/uart_tx_waveform.jpeg" width="900">
+</p>
+
+## UART Reciever Waveform
+
+<p align="center">
+  <img src="images/uart_rx_waveform.jpeg" width="900">
+</p>
 
 ## Project Structure
 
